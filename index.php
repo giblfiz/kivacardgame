@@ -5,6 +5,10 @@ if (!is_numeric($_REQUEST['card'])){
 echo "nWelcome to the kiva cardgame generator <br>";
 echo " Visit ?card=number to see a specific card";
 
+//add a "card detected count"
+// add an "image check" service
+
+
 } else {
 
 // read full CSV (? file_get_contents, str_getcsv? ... nope on on 5.3 yet)

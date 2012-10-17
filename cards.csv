@@ -1,65 +1,65 @@
 Name,Type,Effect,Cost,Image,Flavor Text,$,B,T
 accounting,S,$3 ,$2 ,accounting.jpg,"We have all the accounting issues of a web startup, an international bank, and a non-profit rolled into one.",1,2,2
-Anonoumous Donation,S,2T:$3,2T:$3,,,,,
-Anonymous Donor,S,2B: $3,2B: $3,,,,,
-Bob Harris,S,2T: create 1 lenders,2T: create 1 lenders,,,,,
-Carrot Alliance,S,1T: activate up to 1 lenders,1T: activate up to 1 lenders,,,,,
-Corprate Donations,S,2T:$3,2T:$3,,,,,
-Donor Development,S,2T: $3,2T: $3,,,,,
-Donut Empire,S,1T: activate up to 1 lenders,1T: activate up to 1 lenders,,,,,
-Field Support Specialist,S,$3:4T,$3:4T,,,,,
-Flying Squid,S,2T: Cancel one problem card,2T: Cancel one problem card,,,,,
-general council,S,2T: Cancel one problem card,2T: Cancel one problem card,,,,,
-Gobie ,S,2T:3T,2T:3T,,,,,
-Holiday Season,S,3T: activate up to 2 lenders,3T: activate up to 2 lenders,,,,,
-India Loans,S,4T: 5B,4T: 5B,,,,,
-Interns Program,S,$1:2T,$1:2T,,,,,
-Kiva City,S,2T: Create 2 active lenders,2T: Create 2 active lenders
-Kiva Fellows Program,S,$1: activate up to 2 lenders,$1: activate up to 2 lenders
-kiva social chair,S,$1: 2T,$1: 2T
-Mega Lender,S,2B: Create 1 active lenders,2B: Create 1 active lenders
-MFI,S,3T:4B,3T:4B
-NerdFighters,S,2T: create up to 1 lenders,2T: create up to 1 lenders
-Open House,S,2T:$3,2T:$3
-Ops,S,$2: 3T,$2: 3T
-Otis,S,2T:3T,2T:3T
-Portfolio Risk,S,$2: Cancel one problem card,$2: Cancel one problem card
-Site Redesign,S,4T: Activeate up to 2 lenders,4T: Activeate up to 2 lenders
-The Board,S,3B: Look at the next 5 cards in any deck,3B: Look at the next 5 cards in any deck
-Africa & middle east portfolio,P,$6: 1B,$6 
-Ax Badger,P,$6: $1,$6: $1
-Book Club,P,2T: Burn an idea,2T: Burn an idea
-Community & Marketing,P,5T: activate up to 2 lenders,5T: activate up to 2 lenders
-Donation Nudge,P,6T: $1,6T: $1
-Europe & Asia Portfolio,P,$6: 1B,$6: 1B
-HR,p,$6: Untap one permanent card,$6: Untap one permanent card
-Internal Tools,P,$6: 1T,$6: 1T
-Kiva Zip,P,$6: Activate up to 1 lenders,$6: Activate up to 1 lenders
-Latin America Portfolio,P,$6: 1B,$6: 1B
-North America Portfolio,P,$6: 1B,$6: 1B
-PA2,P,$6: 1T,$6: 1T
-Reminder Email,P,9T: activate up to 2 lenders,9T: activate up to 2 lenders
-Rocket Monkey,P,$6: $1,$6: $1
-RTP,P,$3: activate 1 lender,$3: activate 1 lender
-Team Athiests,P,8T: activate up to 2 lenders,8T: activate up to 2 lenders
-Team Christians,P,6T: activate up to 1 lenders,6T: activate up to 1 lenders
-Team Milepoint,P,6T: activate up to 1 lenders,6T: activate up to 1 lenders
-Unit Tests,P,8T: Cancel one problem card,8T: Cancel one problem card
-Bill Clinton,I,1T: Create 1 active lenders,1T: Create 1 active lenders
-Free Advertizing,I,3T: Create 2 active  Lenders,3T: Create 2 active  Lenders
-Kareyoke,I,$1: 3T,$1: 3T
-Kiva Birthday,I,3T: activate up to 4 lenders,3T: activate up to 4 lenders
-Kiva Lender Parties,I,2T: activate up to 3 lenders,2T: activate up to 3 lenders
-Kiva Love,I,1T: untap any card,1T: untap any card
-Kiva Retreat,I,4T: Immediately buy 4 idea cards for free,4T: Immediately buy 4 idea cards for free
-Matt,I,2B: 4T,2B: 4T
-Mustaches for children,I,3T: activate up to 3 lenders,3T: activate up to 3 lenders
-Oprah,I,5T: Create 5 Active Lenders,5T: Create 5 Active Lenders
-Permal,I,2B: 4$,2B: 4$
-Positive Press,I,2T: Create 2 active Lenders,2T: Create 2 active Lenders
-Rappelling off the roof,I,2T: Cancel one problem card,2T: Cancel one problem card
-Social Performance,I,"$6: Gain one ""life touched"" point","$6: Gain one ""life touched"" point"
-Trampoline Dodgeball,I,$2:3T,$2:3T
+Anonoumous Donation,S,$3 ,2T,,Like most non-profits some of kiva's funding comes from anonoumous donors,,,
+Large Donation,S,$3 ,2B,,Kiva is lucky to have several very generous donors,,,
+Bob Harris,S,1NL,2T,,"Bob is a news columnist, author and Jeopardy champ who writes about kiva",,,
+Carrot Alliance,S,1L,1T,,"When it's time for a snack in the office, carrots have your back",,,
+Corprate Donations,S,$3 ,2T,,,,,
+Donor Development,S,$3 ,2T,,"Though it's a small department, Donor development helps bring in the capital we need",,,
+Donut Empire,S,1L,1T,,"The dark side of snack time, expanding waist lines along with with it's delicious dominance",,,
+Field Support Specialist,S,4T,$3 ,,"When an MFI needs face to face help, these talented folks are the ones who show up on the scene",,,
+Flying Squid,S,Cancel one problem card,2T,,The Quality Assurance team goes by this name. Many of them are also talented circus perfomers.,,,
+General Council,S,Cancel one problem card,2T,,"Helping to keep kiva on the right side of the law, and to navigate the ambiguitys of having a brand new model for a non-profit",,,
+Gobie ,S,3T,2T,,The Kiva office wouldn't be the same without this chearfull dog stealing our socks,,,
+Holiday Season,S,2L,3T,,Everyone wants to buy a gift card or make a loan for the holidays.,,,
+India Loans,S,5B,4T,,"India has some very complicated laws regarding forgien credit, along with a very large population that it can help",,,
+Interns Program,S,2T,$1 ,,The interns at kiva are some of the brightest folks to be found anywhere,,,
+Kiva City,S,2NL,2T,,"Kiva city is a special program, highlighting US cities where kiva is working to help connect lenders and borrowers"
+Kiva Fellows Program,S,2L,$1 ,,"Kiva fellows are brave and intreped volenters who spend months visiting borrowers, ensuring that lenders money is reaching the people who it's supposed to"
+kiva social chair,S,2T,$1 ,,"When the work day is done, and it's time to kick back with a beer, this gentleman will make sure you know where it's happening"
+Mega Lender,S,1NL,2B,,"Lenders loan some of what they have, It turns out some lenders have a LOT"
+MFI,S,4B,3T,,"Kiva works with Micro Finance Institutions all over the world, who find and vet borrowers."
+NerdFighters,S,1NL,2T,,"NerdFighters is a popular website with great content, they have also been championing kiva for some time"
+Open House,S,$3 ,2T,,The Kiva open house is a chance for donors to see what things are like inside the kiva offices
+Ops,S,3T,$2 ,,"It turns out that websites need to be hosted on computers, and when servers need wrangling non can do it better than our ops team"
+Otis,S,3T,2T,,"The alpha dog of the kiva office, Otis keeps all the other puppies in line"
+Portfolio Risk,S,Cancel one problem card,$2 ,,
+Site Redesign,S,Activeate up to 2 lenders,4T,,
+The Board,S,Look at the next 5 cards in any deck,3B,,
+Africa & middle east portfolio,P,1B,$4 ,,
+Ax Badger,P,$1 ,$4 ,,
+Book Club,P,Burn an idea,2T,,
+Community & Marketing,P,2L,7T,,
+Donation Nudge,P,$1 per active lender,6T
+Europe & Asia Portfolio,P,1B,$4 
+HR,p,Untap one permanent card,$6 
+Internal Tools,P,1T,$4 
+Kiva Zip,P,1L,$6 
+Latin America Portfolio,P,1B,$4 
+North America Portfolio,P,1B,$4 
+PA2,P,1T,$4 
+Reminder Email,P,2L,7T
+Rocket Monkey,P,$1 ,$4 
+RTP,P,1L,$3 
+Team Athiests,P,2L,8T
+Team Christians,P,1L,6T
+Team Milepoint,P,1L,6T
+Unit Tests,P,Cancel one problem card,8T
+Bill Clinton,I,1NL,1T
+Free Advertizing,I,2NL,1T
+Kareyoke,I,3T,$1 
+Kiva Birthday,I,4L,3T
+Kiva Lender Parties,I,3L,2T
+Kiva Love,I,Untap any card,1T
+Kiva Retreat,I,Immediately buy 3 idea cards for free,4T
+Matt,I,4T,2B
+Mustaches for children,I,3L,3T
+Oprah,I,5NL,5T
+Permal,I,$4 ,2B
+Positive Press,I,2NL,2T
+Rappelling off the roof,I,Cancel one problem card,2T
+Social Performance,I,"Gain one ""life touched"" point",$6 
+Trampoline Dodgeball,I,3T,$2 
 Heartwarming story,,,
-Innovation Itteration,,,
+Innovation Itteration,I,"Immediately buy, and play one idea card for free",$5 
 Journal Entry

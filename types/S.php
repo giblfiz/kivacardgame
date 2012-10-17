@@ -1,5 +1,5 @@
 <div class="favor_card">
-     <div class="card_name"><? echo $name ?></div>
+     <div class="card_name <?php echo $card_name_size?>"><? echo $name ?></div>
      <div class="big_icon cost <?echo $cost ?>"><? echo $cost ?></div>
 
      <div class="effect">

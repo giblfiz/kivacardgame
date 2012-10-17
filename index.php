@@ -28,6 +28,7 @@ $card =($cards[$_REQUEST['card']]);
 
 list($name, $type, $effect, $cost, $image, $flavor, $cash_v, $borrower_v, $talent_v) = $card;
 
+$card_name_size = (strlen($name) > 16 )? "card_name_long" : "card_name_short";
 
 echo "<html><title>$name </title>
      <link rel='stylesheet' type='text/css' href='card.css' />";

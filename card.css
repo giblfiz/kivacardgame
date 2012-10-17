@@ -8,10 +8,19 @@
     font-size: 60px;
 }
 
-.card_name {
-    background-color: #ccf;
+.card_name_long{
+    font-size: 50px;
+    padding-top: 25px;
+    text-align:center;    
+}
+
+.card_name_short{
     font-size: 80px;
     text-align:center;
+}
+
+.card_name {
+    background-color: #ccf;
     position:absolute;
     top:20px;
     left:50px;

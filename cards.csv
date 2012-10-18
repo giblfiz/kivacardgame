@@ -23,43 +23,43 @@ NerdFighters,S,1NL,2T,,"NerdFighters is a popular website with great content, th
 Open House,S,$3 ,2T,,The Kiva open house is a chance for donors to see what things are like inside the kiva offices
 Ops,S,3T,$2 ,,"It turns out that websites need to be hosted on computers, and when servers need wrangling non can do it better than our ops team"
 Otis,S,3T,2T,,"The alpha dog of the kiva office, Otis keeps all the other puppies in line"
-Portfolio Risk,S,Cancel one problem card,$2 ,,
+Portfolio Risk,S,Cancel one problem card,$2 ,,"With so many loans going to borrowers delbritly selected for need, managing risk through diversification is a must"
 Site Redesign,S,Activeate up to 2 lenders,4T,,
-The Board,S,Look at the next 5 cards in any deck,3B,,
-Africa & middle east portfolio,P,1B,$4 ,,
-Ax Badger,P,$1 ,$4 ,,
-Book Club,P,Burn an idea,2T,,
-Community & Marketing,P,2L,7T,,
-Donation Nudge,P,$1 per active lender,6T
-Europe & Asia Portfolio,P,1B,$4 
-HR,p,Untap one permanent card,$6 
-Internal Tools,P,1T,$4 
-Kiva Zip,P,1L,$6 
-Latin America Portfolio,P,1B,$4 
-North America Portfolio,P,1B,$4 
-PA2,P,1T,$4 
-Reminder Email,P,2L,7T
-Rocket Monkey,P,$1 ,$4 
-RTP,P,1L,$3 
-Team Athiests,P,2L,8T
-Team Christians,P,1L,6T
-Team Milepoint,P,1L,6T
-Unit Tests,P,Cancel one problem card,8T
-Bill Clinton,I,1NL,1T
-Free Advertizing,I,2NL,1T
-Kareyoke,I,3T,$1 
-Kiva Birthday,I,4L,3T
-Kiva Lender Parties,I,3L,2T
-Kiva Love,I,Untap any card,1T
-Kiva Retreat,I,Immediately buy 3 idea cards for free,4T
-Matt,I,4T,2B
-Mustaches for children,I,3L,3T
-Oprah,I,5NL,5T
-Permal,I,$4 ,2B
-Positive Press,I,2NL,2T
-Rappelling off the roof,I,Cancel one problem card,2T
-Social Performance,I,"Gain one ""life touched"" point",$6 
-Trampoline Dodgeball,I,3T,$2 
-Heartwarming story,,,
-Innovation Itteration,I,"Immediately buy, and play one idea card for free",$5 
+The Board,S,Look at the next 5 cards in any deck,3B,,"Kiva's board is constantly pushing to keep the orginzation looking ahead, and focused on what matters most"
+Africa & middle east portfolio,P,1B,$6 ,,
+Ax Badger,P,$1 ,$4 ,,This crack team of engeneers focuses on developing code for special events and promotions
+Book Club,P,Burn an idea,2T,,"Kiva has several reading and discussion groups, using books to fule new ideas"
+Community & Marketing,P,2L,7T,,"C&M does an amazing job motivating our lenders to get involved, motivated, and enthused"
+Donation Nudge,P,$1 per active lender,6T,,"<b>unlike</b> most non profits, over three quarters of kiva's operating capital comes from small lender donations."
+Europe & Asia Portfolio,P,1B,$4 ,,
+HR,p,Untap one permanent card,$6 ,,"Human Resources keeps all of our teams well staffed, happy, and educated"
+Internal Tools,P,1T,$4 ,,"These engeners are renowned for their dedication, and excessive overtime keeping the our internal software behaving. "
+Kiva Zip,P,1L,$6 ,,"zip.kiva.org is kiva's latest exparament, allowing select borrowers to bipass the Microfinance institutions, and borrow dirrectly."
+Latin America Portfolio,P,1B,$4 ,,
+North America Portfolio,P,1B,$4 ,,
+PA2,P,1T,$4 ,,"Kiva interacts with hundreds of MFIs through a custom built website, maintianed by the tireless engeneers of PA2"
+Reminder Email,P,2L,7T,,The great thing about kiva is that you get your money back to loan again!
+Rocket Monkey,P,$1 ,$4 ,,"This engenering team builds the website that lenders use, the public face of the kiva operation."
+RTP,P,1L,$3 ,,The Review & Translation Program is made of hundreds of volenteers who translate each of our loans. After all… that farmer in rural peru probably doesn't know english.
+Team Athiests,P,2L,8T,,"The largest, and most active lending team on kiva, team athiasts can usually be found at the top of the lending team charts"
+Team Christians,P,1L,6T,,"The strongest contender for most active lending team, the Christian lending team is often neck and neck with the athiest team"
+Team Milepoint,P,1L,6T,,These saveey lenders have found a way to convert kiva lending into airline miles. In the process they have managed to be come the third most active lending team
+Unit Tests,P,Cancel one problem card,8T,,"The cornerstone of modern software development, unit testing catches bugs before they happen."
+Bill Clinton,I,1NL,1T,,"Bill is fond of mentioning Kiva in many of his speaches, frequently sending a swarm of new lenders to the site."
+Free Advertizing,I,2NL,1T,,"One nice thing about trying to help others, is often others try to help you!"
+Kareyoke,I,3T,$1 ,,"There is a strong office tradition of kareyoke at kiva, often centered around the San Francisco staple ""the mint"""
+Kiva Birthday,I,4L,3T,,
+Kiva Lender Parties,I,3L,2T,,
+Kiva Love,I,Untap any card,1T,,
+Kiva Retreat,I,Immediately buy 3 idea cards for free,4T,,
+Matt,I,4T,2B,,"Founder and C.E.O. Matt keeps a philosphical outlook, and stears kiva carefuly"
+Mustaches for children,I,3L,3T,,"Each year, kiva employees forgo their razors for a month, to participate in the ""mustaches for children"" fundraiser, helping to buy much needed school supplies"
+Oprah,I,5NL,5T,,"Kiva's single largest event was it's appearance on the Oprah show, causing sudden and unpressidented growth"
+Permal,I,$4 ,2B,,"Kiva's president, premal is a motivated and talented leader. He has also been known to do ""the worm"" at parties"
+Positive Press,I,2NL,2T,,"Kiva often appears in stories about people helping people, or microfinance, and is generally held up as an ideal."
+Rappelling off the roof,I,Cancel one problem card,2T,,"When facing a locked office door with no key in sight, kiva's rock-climbing employees were ready at a moments notice."
+Social Performance,I,"Gain one ""life touched"" point",$6 ,,"this department is devoted to discovering where loans will have the most impact, leadint to our ""social performance badges"""
+Trampoline Dodgeball,I,3T,$2 ,,"the ""Rino Ninjas"" are one of the fearcest after work trampoline dodgeball teams your will ever meet"
+Heartwarming story,,,,,
+Innovation Itteration,I,"Immediately buy, and play one idea card for free",$5 ,,"Periodically kiva gives its engeneers two weeks to work on whatever they feel needs doing in the company, often with amazing results."
 Journal Entry

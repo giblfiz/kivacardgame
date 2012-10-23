@@ -1,57 +1,57 @@
 Name,Type,Effect,Cost,Image,Flavor Text,$,B,T
 accounting,S,$3 ,$2 ,accounting.jpg,"We have all the accounting issues of a web startup, an international bank, and a non-profit rolled into one.",1,2,2
-Anonoumous Donation,S,$3 ,2T,,Like most non-profits some of kiva's funding comes from anonoumous donors,,,
-Large Donation,S,$3 ,2B,,Kiva is lucky to have several very generous donors,,,
-Bob Harris,S,1NL,2T,,"Bob is a news columnist, author and Jeopardy champ who writes about kiva",,,
-Carrot Alliance,S,1L,1T,,"When it's time for a snack in the office, carrots have your back",,,
-Corprate Donations,S,$3 ,2T,,,,,
-Donor Development,S,$3 ,2T,,"Though it's a small department, Donor development helps bring in the capital we need",,,
+Anonoumous Donation,S,$3 ,2T,anonomousDonation.jpg,Like most non-profits some of kiva's funding comes from anonoumous donors,1,2,3
+Large Donation,S,$3 ,2B,largeDonation.jpg,Kiva is lucky to have several very generous donors,1,2,3
+Bob Harris,S,1NL,2T,bobHarris.jpg,"Bob is a news columnist, author and Jeopardy champ who writes about kiva",2,2,2
+Carrot Alliance,S,1L,1T,carrotAlliance.jpg,"When it's time for a snack in the office, carrots have your back",3,3,3
+Corprate Donations,S,$3 ,2T,corporateSponsors.jpg,,3,2,1
+Donor Development,S,$3 ,2T,donorDevelopment.jpg,"Though it's a small department, Donor development helps bring in the capital we need",,,
 Donut Empire,S,1L,1T,,"The dark side of snack time, expanding waist lines along with with it's delicious dominance",,,
-Field Support Specialist,S,4T,$3 ,,"When an MFI needs face to face help, these talented folks are the ones who show up on the scene",,,
-Flying Squid,S,Cancel one problem card,2T,,The Quality Assurance team goes by this name. Many of them are also talented circus perfomers.,,,
-General Council,S,Cancel one problem card,2T,,"Helping to keep kiva on the right side of the law, and to navigate the ambiguitys of having a brand new model for a non-profit",,,
+Field Support Specialist,S,4T,$3 ,FSS.jpg,"When an MFI needs face to face help, these talented folks are the ones who show up on the scene",,,
+Flying Squid,S,Cancel one problem card,2T,flyingSquid.jpg,The Quality Assurance team goes by this name. Many of them are also talented circus perfomers.,,,
+General Council,S,Cancel one problem card,2T,generalCouncil.jpg,"Helping to keep kiva on the right side of the law, and to navigate the ambiguitys of having a brand new model for a non-profit",,,
 Gobie ,S,3T,2T,,The Kiva office wouldn't be the same without this chearfull dog stealing our socks,,,
-Holiday Season,S,2L,3T,,Everyone wants to buy a gift card or make a loan for the holidays.,,,
-India Loans,S,5B,4T,,"India has some very complicated laws regarding forgien credit, along with a very large population that it can help",,,
+Holiday Season,S,2L,3T,holidaySeason.gif,Everyone wants to buy a gift card or make a loan for the holidays.,,,
+India Loans,S,5B,4T,indiaLoans.jpg,"India has some very complicated laws regarding forgien credit, along with a very large population that it can help",,,
 Interns Program,S,2T,$1 ,,The interns at kiva are some of the brightest folks to be found anywhere,,,
-Kiva City,S,2NL,2T,,"Kiva city is a special program, highlighting US cities where kiva is working to help connect lenders and borrowers"
+Kiva City,S,2NL,2T,KivaCity.png,"Kiva city is a special program, highlighting US cities where kiva is working to help connect lenders and borrowers"
 Kiva Fellows Program,S,2L,$1 ,,"Kiva fellows are brave and intreped volenters who spend months visiting borrowers, ensuring that lenders money is reaching the people who it's supposed to"
 kiva social chair,S,2T,$1 ,,"When the work day is done, and it's time to kick back with a beer, this gentleman will make sure you know where it's happening"
 Mega Lender,S,1NL,2B,,"Lenders loan some of what they have, It turns out some lenders have a LOT"
-MFI,S,4B,3T,,"Kiva works with Micro Finance Institutions all over the world, who find and vet borrowers."
-NerdFighters,S,1NL,2T,,"NerdFighters is a popular website with great content, they have also been championing kiva for some time"
+MFI,S,4B,3T,MFI.jpg,"Kiva works with Micro Finance Institutions all over the world, who find and vet borrowers."
+NerdFighters,S,1NL,2T,Nerdfighters.png,"NerdFighters is a popular website with great content, they have also been championing kiva for some time"
 Open House,S,$3 ,2T,,The Kiva open house is a chance for donors to see what things are like inside the kiva offices
-Ops,S,3T,$2 ,,"It turns out that websites need to be hosted on computers, and when servers need wrangling non can do it better than our ops team"
+Ops,S,3T,$2 ,Ops.jpg,"It turns out that websites need to be hosted on computers, and when servers need wrangling non can do it better than our ops team"
 Otis,S,3T,2T,,"The alpha dog of the kiva office, Otis keeps all the other puppies in line"
-Portfolio Risk,S,Cancel one problem card,$2 ,,"With so many loans going to borrowers delbritly selected for need, managing risk through diversification is a must"
+Portfolio Risk,S,Cancel one problem card,$2 ,portfolioRisk.jpg,"With so many loans going to borrowers delbritly selected for need, managing risk through diversification is a must"
 Site Redesign,S,Activeate up to 2 lenders,4T,,
-The Board,S,Look at the next 5 cards in any deck,3B,,"Kiva's board is constantly pushing to keep the orginzation looking ahead, and focused on what matters most"
-Africa & middle east portfolio,P,1B,$6 ,,
+The Board,S,Look at the next 5 cards in any deck,3B,theBoard.jpg,"Kiva's board is constantly pushing to keep the orginzation looking ahead, and focused on what matters most"
+Africa & middle east portfolio,P,1B,$6 ,africaAndTheMiddleEast.jpg,
 Ax Badger,P,$1 ,$4 ,,This crack team of engeneers focuses on developing code for special events and promotions
 Book Club,P,Burn an idea,2T,,"Kiva has several reading and discussion groups, using books to fule new ideas"
 Community & Marketing,P,2L,7T,,"C&M does an amazing job motivating our lenders to get involved, motivated, and enthused"
-Donation Nudge,P,$1 per active lender,6T,,"<b>unlike</b> most non profits, over three quarters of kiva's operating capital comes from small lender donations."
-Europe & Asia Portfolio,P,1B,$4 ,,
-HR,p,Untap one permanent card,$6 ,,"Human Resources keeps all of our teams well staffed, happy, and educated"
-Internal Tools,P,1T,$4 ,,"These engeners are renowned for their dedication, and excessive overtime keeping the our internal software behaving. "
-Kiva Zip,P,1L,$6 ,,"zip.kiva.org is kiva's latest exparament, allowing select borrowers to bipass the Microfinance institutions, and borrow dirrectly."
-Latin America Portfolio,P,1B,$4 ,,
-North America Portfolio,P,1B,$4 ,,
-PA2,P,1T,$4 ,,"Kiva interacts with hundreds of MFIs through a custom built website, maintianed by the tireless engeneers of PA2"
-Reminder Email,P,2L,7T,,The great thing about kiva is that you get your money back to loan again!
-Rocket Monkey,P,$1 ,$4 ,,"This engenering team builds the website that lenders use, the public face of the kiva operation."
+Donation Nudge,P,$1 per active lender,6T,donationNudge.png,"<b>unlike</b> most non profits, over three quarters of kiva's operating capital comes from small lender donations."
+Europe & Asia Portfolio,P,1B,$4 ,europeAndAsia.jpg,
+HR,p,Untap one permanent card,$6 ,HR.jpg,"Human Resources keeps all of our teams well staffed, happy, and educated"
+Internal Tools,P,1T,$4 ,internalTools.png,"These engeners are renowned for their dedication, and excessive overtime keeping the our internal software behaving. "
+Kiva Zip,P,1L,$6 ,kivaZip.png,"zip.kiva.org is kiva's latest exparament, allowing select borrowers to bipass the Microfinance institutions, and borrow dirrectly."
+Latin America Portfolio,P,1B,$4 ,latinAmerica.jpg,
+North America Portfolio,P,1B,$4 ,northAmerica.jpg,
+PA2,P,1T,$4 ,PA2.png,"Kiva interacts with hundreds of MFIs through a custom built website, maintianed by the tireless engeneers of PA2"
+Reminder Email,P,2L,7T,reminderEmail.png,The great thing about kiva is that you get your money back to loan again!
+Rocket Monkey,P,$1 ,$4 ,rocketMonkey.jpg,"This engenering team builds the website that lenders use, the public face of the kiva operation."
 RTP,P,1L,$3 ,,The Review & Translation Program is made of hundreds of volenteers who translate each of our loans. After all… that farmer in rural peru probably doesn't know english.
-Team Athiests,P,2L,8T,,"The largest, and most active lending team on kiva, team athiasts can usually be found at the top of the lending team charts"
-Team Christians,P,1L,6T,,"The strongest contender for most active lending team, the Christian lending team is often neck and neck with the athiest team"
-Team Milepoint,P,1L,6T,,These saveey lenders have found a way to convert kiva lending into airline miles. In the process they have managed to be come the third most active lending team
-Unit Tests,P,Cancel one problem card,8T,,"The cornerstone of modern software development, unit testing catches bugs before they happen."
-Bill Clinton,I,1NL,1T,,"Bill is fond of mentioning Kiva in many of his speaches, frequently sending a swarm of new lenders to the site."
+Team Athiests,P,2L,8T,atheists.jpg,"The largest, and most active lending team on kiva, team athiasts can usually be found at the top of the lending team charts"
+Team Christians,P,1L,6T,christians.jpg,"The strongest contender for most active lending team, the Christian lending team is often neck and neck with the athiest team"
+Team Milepoint,P,1L,6T,milepoint.jpg,These saveey lenders have found a way to convert kiva lending into airline miles. In the process they have managed to be come the third most active lending team
+Unit Tests,P,Cancel one problem card,8T,unitTests.png,"The cornerstone of modern software development, unit testing catches bugs before they happen."
+Bill Clinton,I,1NL,1T,billClinto.jpg,"Bill is fond of mentioning Kiva in many of his speaches, frequently sending a swarm of new lenders to the site."
 Free Advertizing,I,2NL,1T,,"One nice thing about trying to help others, is often others try to help you!"
-Kareyoke,I,3T,$1 ,,"There is a strong office tradition of kareyoke at kiva, often centered around the San Francisco staple ""the mint"""
-Kiva Birthday,I,4L,3T,,
+Kareyoke,I,3T,$1 ,keryoke.jpg,"There is a strong office tradition of kareyoke at kiva, often centered around the San Francisco staple ""the mint"""
+Kiva Birthday,I,4L,3T,kivaBirthday.png,
 Kiva Lender Parties,I,3L,2T,,
 Kiva Love,I,Untap any card,1T,,
-Kiva Retreat,I,Immediately buy 3 idea cards for free,4T,,
+Kiva Retreat,I,Immediately buy 3 idea cards for free,4T,kivaRetreat.jpg,
 Matt,I,4T,2B,,"Founder and C.E.O. Matt keeps a philosphical outlook, and stears kiva carefuly"
 Mustaches for children,I,3L,3T,,"Each year, kiva employees forgo their razors for a month, to participate in the ""mustaches for children"" fundraiser, helping to buy much needed school supplies"
 Oprah,I,5NL,5T,,"Kiva's single largest event was it's appearance on the Oprah show, causing sudden and unpressidented growth"

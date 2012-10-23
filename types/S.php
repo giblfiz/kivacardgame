@@ -14,9 +14,15 @@
      </div>
 
      <div class="values">
-       <div class="flip big_icon value <? echo $cash_v ?>">$<? echo $cash_v ?></div>
-       <div class="flip big_icon value <? echo $borrower_v ?>">B<? echo $borrower_v ?></div>
-       <div class="flip big_icon value <? echo $talent_v ?>">T<? echo $talent_v ?></div>
+       <div class="flip big_icon value <? echo $cash_v ?>">
+	 <? echo iconify('$'.$cash_v) ?>
+       </div>
+       <div class="flip big_icon value <? echo $borrower_v ?>">
+	 <? echo iconify($borrower_v."B") ?>
+       </div>
+       <div class="flip big_icon value <? echo $talent_v ?>">
+	 <? echo iconify($talent_v."T") ?>
+       </div>
      </div>
 
 

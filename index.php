@@ -45,6 +45,9 @@ require( "types/$type".'.php');
 
 
 function iconify($string){
+    $sm = '<div class="multiIcon"></div>';
+    $smh = '<div class="multiIconHalf"></div>';
+
     $ts = '<img src="/kivacardgame/icons/Talent.svg" class="singleIcon">';
     $tm = '<img src="/kivacardgame/icons/Talent.svg" class="multiIcon">';
     $tt = '<img src="/kivacardgame/icons/Talent.svg" class="tinyIcon">';
@@ -54,13 +57,13 @@ function iconify($string){
     $ms = '<img src="/kivacardgame/icons/Money.svg" class="singleIcon">';
     $mm = '<img src="/kivacardgame/icons/Money.svg" class="multiIcon">';
     $mt = '<img src="/kivacardgame/icons/Money.svg" class="tinyIcon">';
-	 switch($string){
+	 switch(trim($string)){
 	 case "1T":
 	     return($ts);
 	 case "2T":
-	     return($tm.$tm);
+	     return($tm.$sm.$sm.$tm);
 	 case "3T":
-	     return($tm.$tm.$tm);
+	     return($tm.$tm.$smh.$tm);
 	 case "4T":
 	     return($tm.$tm.$tm.$tm);
 	 case "5T":
@@ -72,9 +75,9 @@ function iconify($string){
 	 case "1B":
 	     return($bs);
 	 case "2B":
-	     return($bm.$bm);
+	     return($bm.$sm. $sm. $bm);
 	 case "3B":
-	     return($bm.$bm.$bm);
+	     return($bm.$bm.$smh.$bm);
 	 case "4B":
 	     return($bm.$bm.$bm.$bm);
 	 case "5B":
@@ -85,9 +88,9 @@ function iconify($string){
 	 case '$1':
 	     return($ms);
 	 case '$2':
-	     return($mm.$mm);
+	     return($mm. $sm. $sm.$mm);
 	 case '$3':
-	     return($mm.$mm.$mm);
+	     return($mm.$mm.$smh.$mm);
 	 case '$4':
 	     return($mm.$mm.$mm.$mm);
 	 case '$5':

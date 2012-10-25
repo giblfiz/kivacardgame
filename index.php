@@ -31,11 +31,14 @@ $card =($cards[$_REQUEST['card']]);
 list($name, $type, $effect, $cost, $image, $flavor, $cash_v, $borrower_v, $talent_v) = $card;
 
 $card_name_size = (strlen($name) > 16 )? "card_name_long" : "card_name_short";
+$card_flavor_size = (strlen($flavor) > 120 )? "card_flavor_long" : "card_flavor_short";
+$card_rule_size = (strlen($effect) > 20 )? "card_rule_long" : "card_rule_short";
 
 echo "<html><title>$name </title>
      <link rel='stylesheet' type='text/css' href='card.css' />";
 
-require( "types/$type".'.php');
+if ($type == 'S' or $type == 'P' or $type == 'I' or $type == 'X')
+require( "types/P".'.php');
 
 
 
@@ -51,12 +54,17 @@ function iconify($string){
     $ts = '<img src="/kivacardgame/icons/Talent.svg" class="singleIcon">';
     $tm = '<img src="/kivacardgame/icons/Talent.svg" class="multiIcon">';
     $tt = '<img src="/kivacardgame/icons/Talent.svg" class="tinyIcon">';
+
     $bs = '<img src="/kivacardgame/icons/Borrower.svg" class="singleIcon">';
     $bm = '<img src="/kivacardgame/icons/Borrower.svg" class="multiIcon">';
     $bt = '<img src="/kivacardgame/icons/Borrower.svg" class="tinyIcon">';
+
     $ms = '<img src="/kivacardgame/icons/Money.svg" class="singleIcon">';
     $mm = '<img src="/kivacardgame/icons/Money.svg" class="multiIcon">';
     $mt = '<img src="/kivacardgame/icons/Money.svg" class="tinyIcon">';
+
+    $ls = '<img src="/kivacardgame/icons/Lender.png" class="singleIcon">';
+    $nls = '<img src="/kivacardgame/icons/NewLender.png" class="singleIcon">';
 	 switch(trim($string)){
 	 case "1T":
 	     return($ts);
@@ -70,6 +78,10 @@ function iconify($string){
 	     return($tt.$tt.$tt.$tt.$tt);
 	 case "6T":
 	     return($tt.$tt.$tt.$tt.$tt.$tt);
+	 case "7T":
+	     return($tt.$tt.$tt.$tt.$tt.$tt.$tt);
+	 case "8T":
+	     return($tt.$tt.$tt.$tt.$tt.$tt.$smh.$tt.$tt);
 
 
 	 case "1B":
@@ -97,6 +109,21 @@ function iconify($string){
 	     return($mt.$mt.$mt.$mt.$mt);
 	 case '$6':
 	     return($mt.$mt.$mt.$mt.$mt.$mt);
+
+
+	 case '1L':
+	     return($ls);
+	 case '2L':
+	     return($ls.$ls);
+	 case '3L':
+	     return($ls.$ls.$ls);
+
+	 case '1NL':
+	     return($nls);
+	 case '2NL':
+	     return($nls. $nls);
+	 case '5NL':
+	     return($nls.$nls.$nls.$nls.$nls);
 
 	 }
 

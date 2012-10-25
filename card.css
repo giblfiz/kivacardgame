@@ -3,11 +3,12 @@
     
 }
 
-.favor{
-   background-color: #ccf;
-   border: 1px #ddf solid;
+.I{
+   background-color: #fcc;
+   border: 1px #fdd solid;
 }
-.favor_card {
+
+.I_card {
     background-color:#ccc;
     background-image:url('/kivacardgame/images/washed_background.png');
     width:750px;
@@ -19,13 +20,30 @@
 }
 
 
-.asset{
+.S{
+   background-color: #ccf;
+   border: 1px #ddf solid;
+}
+.S_card {
+    background-color:#ccc;
+    background-image:url('/kivacardgame/images/washed_background.png');
+    width:750px;
+    height:1050px;
+    position:absolute;
+    top:0;
+    left:0;
+    font-size: 60px;
+}
+
+
+.P{
    background-color: #cfc;
    border: 1px #dfd solid;
 }
-.asset_card {
+.P_card {
     background-color:#ccc;
-    background-image:url('/kivacardgame/images/washed_background.png');
+    background-size: 100%;
+    background-image:url('/kivacardgame/images/KivaTree.png');
     width:750px;
     height:1050px;
     position:absolute;
@@ -38,26 +56,34 @@
 
 .card_name_long{
     font-size: 50px;
-    text-align:center;    
 }
 
 .card_name_short{
     font-size: 70px;
-    text-align:center;    
 }
 
 .card_name {
     padding-top: 25px;
     position:absolute;
+    text-align:center;    
     top:08px;
     left:20px;
     height:90px;
     width:600px;
 }
 
+.card_rule_long{
+   font-size: 50px;
+
+}
+
+.card_rule_short{
+   font-size: 80px;
+
+}
+
 .effect {
-    font-size: 80px;
-    text-align:center;
+     text-align:center;
     position:absolute;
     top:140px;
     left:20px;
@@ -85,9 +111,15 @@
     font-family:"Museo Slab", serif;
  }
 
+.card_flavor_long{
+    font-size: 30px;
+ }
+.card_flavor_short{
+    font-size:40px;
+ }
+
 .flavor{
-     font-size: 40px;
-    text-align:center;
+    text-align:left;
     position:absolute;
     top:750px;
     left:20px;

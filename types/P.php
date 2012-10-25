@@ -1,10 +1,10 @@
-<div class="asset_card global">
-     <div class="card_name asset <?php echo $card_name_size?>"><? echo $name ?></div>
+<div class="<?echo $type . '_card'?> global">
+     <div class="card_name <?php echo "$card_name_size $type"?>"><? echo $name ?></div>
      <div class="cost">
        <div class="big_icon <?echo $cost ?>"><? echo iconify($cost) ?></div>
      </div>
 
-     <div class="effect asset">
+     <div class="effect  <?echo "$card_rule_size $type"?>">
        <div class="floater"></div>
        <div><? echo iconify($effect) ?></div>
      </div>
@@ -12,7 +12,7 @@
      <img class="main_image" src="/kivacardgame/images/<? echo $image ?>" />
 
      <div class="flavor">
-       <span class="flavor_text"><? echo $flavor ?></span>
+       <span class="flavor_text <?echo $card_flavor_size?>"><? echo $flavor ?></span>
      </div>
 
      <div class="values">

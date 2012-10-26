@@ -3,6 +3,23 @@
     
 }
 
+.X{
+   background-color: #888;
+   border: 3px #C00 solid;
+   color: #FFF;
+}
+
+.X_card {
+    background-color:#002;
+    width:750px;
+    height:1050px;
+    position:absolute;
+    top:0;
+    left:0;
+    font-size: 60px;
+}
+
+
 .I{
    background-color: #fcc;
    border: 1px #fdd solid;
@@ -26,7 +43,7 @@
 }
 .S_card {
     background-color:#ccc;
-    background-image:url('/kivacardgame/images/washed_background.png');
+    background-image:url('/kivacardgame/images/backgroundWood.jpg');
     width:750px;
     height:1050px;
     position:absolute;

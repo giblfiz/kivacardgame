@@ -1,115 +1,111 @@
 Name,Type,Effect,Cost,Image,Flavor Text,$,B,T
-accounting,S,$3 ,$2 ,accounting.jpg,"We have all the accounting issues of a web startup, an international bank, and a non-profit rolled into one.",1,2,2
-Anonoumous Donation,S,$3 ,2T,anonomousDonation.jpg,Like most non-profits some of kiva's funding comes from anonoumous donors,2,1,2
-Large Donation,S,$3 ,2B,largeDonation.jpg,Kiva is lucky to have several very generous donors,2,2,1
-Bob Harris,S,1NL,2T,bobHarris.jpg,"Bob is a news columnist, author and Jeopardy champ who writes about kiva",1,1,2
-Carrot Alliance,S,1L,1T,carrotAlliance.jpg,"When it's time for a snack in the office, carrots have your back",1,2,1
-Corprate Donations,S,$3 ,2T,corporateSponsors.jpg,,2,1,1
-Donor Development,S,$3 ,2T,donorDevelopment.jpg,"Though it's a small department, Donor development helps bring in the capital we need",1,1,3
-Donut Empire,S,1L,1T,,"The dark side of snack time, expanding waist lines along with with it's delicious dominance",1,3,1
-Field Support Specialist,S,4T,$3 ,FSS.jpg,"When an MFI needs face to face help, these talented folks are the ones who show up on the scene",3,1,1
-Flying Squid,S,Cancel one problem card,2T,flyingSquid.jpg,The Quality Assurance team goes by this name. Many of them are also talented circus perfomers.,0,2,2
-General Council,S,Cancel one problem card,2T,generalCouncil.jpg,"Helping to keep kiva on the right side of the law, and to navigate the ambiguitys of having a brand new model for a non-profit",2,0,2
-Gobie ,S,3T,2T,,The Kiva office wouldn't be the same without this chearfull dog stealing our socks,2,2,0
-Holiday Season,S,2L,3T,holidaySeason.gif,Everyone wants to buy a gift card or make a loan for the holidays.,3,0,2
-India Loans,S,5B,4T,indiaLoans.jpg,"India has some very complicated laws regarding forgien credit, along with a very large population that it can help",3,2,0
-Interns Program,S,2T,$1 ,,The interns at kiva are some of the brightest folks to be found anywhere,0,3,2
-Kiva City,S,2NL,2T,KivaCity.png,"Kiva city is a special program, highlighting US cities where kiva is working to help connect lenders and borrowers",2,3,0
-Kiva Fellows Program,S,2L,$1 ,,"Kiva fellows are brave and intreped volenters who spend months visiting borrowers, ensuring that lenders money is reaching the people who it's supposed to",0,2,3
-kiva social chair,S,2T,$1 ,,"When the work day is done, and it's time to kick back with a beer, this gentleman will make sure you know where it's happening",2,0,3
-Mega Lender,S,1NL,2B,,"Lenders loan some of what they have, It turns out some lenders have a LOT",1,2,2
-MFI,S,4B,3T,MFI.jpg,"Kiva works with Micro Finance Institutions all over the world, who find and vet borrowers.",2,1,2
-NerdFighters,S,1NL,2T,Nerdfighters.png,"NerdFighters is a popular website with great content, they have also been championing kiva for some time",2,2,1
-Open House,S,$3 ,2T,,The Kiva open house is a chance for donors to see what things are like inside the kiva offices,1,1,2
-Ops,S,3T,$2 ,Ops.jpg,"It turns out that websites need to be hosted on computers, and when servers need wrangling non can do it better than our ops team",1,2,1
-Otis,S,3T,2T,,"The alpha dog of the kiva office, Otis keeps all the other puppies in line",2,1,1
-Portfolio Risk,S,Cancel one problem card,$2 ,portfolioRisk.jpg,"With so many loans going to borrowers delbritly selected for need, managing risk through diversification is a must",1,1,3
-Site Redesign,S,Activeate up to 2 lenders,4T,,,1,3,1
-The Board,S,Look at the next 5 cards in any deck,3B,theBoard.jpg,"Kiva's board is constantly pushing to keep the orginzation looking ahead, and focused on what matters most",3,1,1
+Borrower,C,,,,,,,
+Borrower,C,,,,,,,
+Borrower,C,,,,,,,
+Borrower,C,,,,,,,
+Borrower,C,,,,,,,
+Borrower,C,,,,,,,
+Borrower,C,,,,,,,
+Borrower,C,,,,,,,
+Borrower,C,,,,,,,
+Borrower,C,,,,,,,
+Borrower,C,,,,,,,
+Lender,C,,,,,,,
+Lender,C,,,,,,,
+Lender,C,,,,,,,
+Lender,C,,,,,,,
+Lender,C,,,,,,,
+Lender,C,,,,,,,
+Lender,C,,,,,,,
+Lender,C,,,,,,,
+Lender,C,,,,,,,
+Lender,C,,,,,,,
+Lender,C,,,,,,,
+Lives Touched,C,,,,,,,
+Bill Clinton,I,1NL,1T,billClinto.jpg,"Bill is fond of mentioning Kiva in many of his speaches, frequently sending a swarm of new lenders to the site.",2,0,2
+Kareyoke,I,3T,$1 ,keryoke.jpg,"There is a strong office tradition of kareyoke at kiva, often centered around the San Francisco staple ""the mint""",3,0,2
+Kiva Birthday,I,4L,3T,kivaBirthday.png,,3,2,0
+Kiva Retreat,I,Immediately buy 3 idea cards for free,4T,kivaRetreat.jpg,,0,2,3
+Trampoline Dodgeball,I,3T,$2 ,trampolineDodgeball.jpg,"the ""Rino Ninjas"" are one of the fearcest after work trampoline dodgeball teams your will ever meet",1,1,3
+Innovation Itteration,I,"Immediately buy, and play one idea card for free",$5 ,innovationItteration.png,"Periodically kiva gives its engeneers two weeks to work on whatever they feel needs doing in the company, often with amazing results.",3,1,1
+Social Performance,I,"Gain one ""life touched"" point",$6 ,,"this department is devoted to discovering where loans will have the most impact, leadint to our ""social performance badges""",2,1,1
+Free Advertizing,I,2NL,1T,,"One nice thing about trying to help others, is often others try to help you!",2,2,0
+Kiva Love,I,Untap any card,1T,,,2,3,0
+Matt,I,4T,2B,matt.jpg,"Founder and C.E.O. Matt keeps a philosphical outlook, and stears kiva carefuly",2,0,3
+Permal,I,$4 ,2B,premal.jpg,"Kiva's president, premal is a motivated and talented leader. He has also been known to do ""the worm"" at parties",2,2,1
+Kiva Lender Parties,I,3L,2T,,,0,3,2
+Positive Press,I,2NL,2T,,"Kiva often appears in stories about people helping people, or microfinance, and is generally held up as an ideal.",1,1,2
+Rappelling off the roof,I,Cancel one problem card,2T,,"When facing a locked office door with no key in sight, kiva's rock-climbing employees were ready at a moments notice.",1,2,1
+Mustaches for children,I,3L,3T,,"Each year, kiva employees forgo their razors for a month, to participate in the ""mustaches for children"" fundraiser, helping to buy much needed school supplies",1,2,2
+Oprah,I,5NL,5T,,"Kiva's single largest event was it's appearance on the Oprah show, causing sudden and unpressidented growth",2,1,2
 Africa & middle east portfolio,P,1B,$6 ,africaAndTheMiddleEast.jpg,,0,2,2
-Ax Badger,P,$1 ,$4 ,,This crack team of engeneers focuses on developing code for special events and promotions,2,0,2
-Book Club,P,Burn an idea,2T,,"Kiva has several reading and discussion groups, using books to fule new ideas",2,2,0
-Community & Marketing,P,2L,7T,,"C&M does an amazing job motivating our lenders to get involved, motivated, and enthused",3,0,2
+Team Athiests,P,2L,8T,atheists.jpg,"The largest, and most active lending team on kiva, team athiasts can usually be found at the top of the lending team charts",1,1,3
+Team Christians,P,1L,6T,christians.jpg,"The strongest contender for most active lending team, the Christian lending team is often neck and neck with the athiest team",1,3,1
 Donation Nudge,P,$1 per active lender,6T,donationNudge.png,"<b>unlike</b> most non profits, over three quarters of kiva's operating capital comes from small lender donations.",3,2,0
 Europe & Asia Portfolio,P,1B,$4 ,europeAndAsia.jpg,,0,3,2
 HR,p,Untap one permanent card,$6 ,HR.jpg,"Human Resources keeps all of our teams well staffed, happy, and educated",2,3,0
 Internal Tools,P,1T,$4 ,internalTools.png,"These engeners are renowned for their dedication, and excessive overtime keeping the our internal software behaving. ",0,2,3
 Kiva Zip,P,1L,$6 ,kivaZip.png,"zip.kiva.org is kiva's latest exparament, allowing select borrowers to bipass the Microfinance institutions, and borrow dirrectly.",2,0,3
 Latin America Portfolio,P,1B,$4 ,latinAmerica.jpg,,1,2,2
+Team Milepoint,P,1L,6T,milepoint.jpg,These saveey lenders have found a way to convert kiva lending into airline miles. In the process they have managed to be come the third most active lending team,3,1,1
 North America Portfolio,P,1B,$4 ,northAmerica.jpg,,2,1,2
 PA2,P,1T,$4 ,PA2.png,"Kiva interacts with hundreds of MFIs through a custom built website, maintianed by the tireless engeneers of PA2",2,2,1
 Reminder Email,P,2L,7T,reminderEmail.png,The great thing about kiva is that you get your money back to loan again!,1,1,2
 Rocket Monkey,P,$1 ,$4 ,rocketMonkey.jpg,"This engenering team builds the website that lenders use, the public face of the kiva operation.",1,2,1
-RTP,P,1L,$3 ,,The Review & Translation Program is made of hundreds of volenteers who translate each of our loans. After all… that farmer in rural peru probably doesn't know english.,2,1,1
-Team Athiests,P,2L,8T,atheists.jpg,"The largest, and most active lending team on kiva, team athiasts can usually be found at the top of the lending team charts",1,1,3
-Team Christians,P,1L,6T,christians.jpg,"The strongest contender for most active lending team, the Christian lending team is often neck and neck with the athiest team",1,3,1
-Team Milepoint,P,1L,6T,milepoint.jpg,These saveey lenders have found a way to convert kiva lending into airline miles. In the process they have managed to be come the third most active lending team,3,1,1
 Unit Tests,P,Cancel one problem card,8T,unitTests.png,"The cornerstone of modern software development, unit testing catches bugs before they happen.",0,2,2
-Bill Clinton,I,1NL,1T,billClinto.jpg,"Bill is fond of mentioning Kiva in many of his speaches, frequently sending a swarm of new lenders to the site.",2,0,2
-Free Advertizing,I,2NL,1T,,"One nice thing about trying to help others, is often others try to help you!",2,2,0
-Kareyoke,I,3T,$1 ,keryoke.jpg,"There is a strong office tradition of kareyoke at kiva, often centered around the San Francisco staple ""the mint""",3,0,2
-Kiva Birthday,I,4L,3T,kivaBirthday.png,,3,2,0
-Kiva Lender Parties,I,3L,2T,,,0,3,2
-Kiva Love,I,Untap any card,1T,,,2,3,0
-Kiva Retreat,I,Immediately buy 3 idea cards for free,4T,kivaRetreat.jpg,,0,2,3
-Matt,I,4T,2B,,"Founder and C.E.O. Matt keeps a philosphical outlook, and stears kiva carefuly",2,0,3
-Mustaches for children,I,3L,3T,,"Each year, kiva employees forgo their razors for a month, to participate in the ""mustaches for children"" fundraiser, helping to buy much needed school supplies",1,2,2
-Oprah,I,5NL,5T,,"Kiva's single largest event was it's appearance on the Oprah show, causing sudden and unpressidented growth",2,1,2
-Permal,I,$4 ,2B,,"Kiva's president, premal is a motivated and talented leader. He has also been known to do ""the worm"" at parties",2,2,1
-Positive Press,I,2NL,2T,,"Kiva often appears in stories about people helping people, or microfinance, and is generally held up as an ideal.",1,1,2
-Rappelling off the roof,I,Cancel one problem card,2T,,"When facing a locked office door with no key in sight, kiva's rock-climbing employees were ready at a moments notice.",1,2,1
-Social Performance,I,"Gain one ""life touched"" point",$6 ,,"this department is devoted to discovering where loans will have the most impact, leadint to our ""social performance badges""",2,1,1
-Trampoline Dodgeball,I,3T,$2 ,,"the ""Rino Ninjas"" are one of the fearcest after work trampoline dodgeball teams your will ever meet",1,1,3
-,,,,,,1,3,1
-Innovation Itteration,I,"Immediately buy, and play one idea card for free",$5 ,,"Periodically kiva gives its engeneers two weeks to work on whatever they feel needs doing in the company, often with amazing results.",3,1,1
-Journal Entry,,,,,,,,
-
-
+RTP,P,1L,$3 ,,The Review & Translation Program is made of hundreds of volenteers who translate each of our loans. After all… that farmer in rural peru probably doesn't know english.,2,1,1
+Ax Badger,P,$1 ,$4 ,axBadger.png,This crack team of engeneers focuses on developing code for special events and promotions,2,0,2
+Book Club,P,Burn an idea,2T,bookClub.jpg,"Kiva has several reading and discussion groups, using books to fule new ideas",2,2,0
+Community & Marketing,P,2L,7T,,"C&M does an amazing job motivating our lenders to get involved, motivated, and enthused",3,0,2
+accounting,S,$3 ,$2 ,accounting.jpg,"We have all the accounting issues of a web startup, an international bank, and a non-profit rolled into one.",1,2,2
+Anonoumous Donation,S,$3 ,2T,anonomousDonation.jpg,Like most non-profits some of kiva's funding comes from anonoumous donors,2,1,2
+Bob Harris,S,1NL,2T,bobHarris.jpg,"Bob is a news columnist, author and Jeopardy champ who writes about kiva",1,1,2
+Carrot Alliance,S,1L,1T,carrotAlliance.jpg,"When it's time for a snack in the office, carrots have your back",1,2,1
+Corprate Donations,S,$3 ,2T,corporateSponsors.jpg,,2,1,1
+Donor Development,S,$3 ,2T,donorDevelopment.jpg,"Though it's a small department, Donor development helps bring in the capital we need",1,1,3
+Flying Squid,S,Cancel one problem card,2T,flyingSquid.jpg,The Quality Assurance team goes by this name. Many of them are also talented circus perfomers.,0,2,2
+Field Support Specialist,S,4T,$3 ,FSS.jpg,"When an MFI needs face to face help, these talented folks are the ones who show up on the scene",3,1,1
+General Council,S,Cancel one problem card,2T,generalCouncil.jpg,"Helping to keep kiva on the right side of the law, and to navigate the ambiguitys of having a brand new model for a non-profit",2,0,2
+Holiday Season,S,2L,3T,holidaySeason.gif,Everyone wants to buy a gift card or make a loan for the holidays.,3,0,2
+India Loans,S,5B,4T,indiaLoans.jpg,"India has some very complicated laws regarding forgien credit, along with a very large population that it can help",3,2,0
+Kiva City,S,2NL,2T,KivaCity.png,"Kiva city is a special program, highlighting US cities where kiva is working to help connect lenders and borrowers",2,3,0
+Large Donation,S,$3 ,2B,largeDonation.jpg,Kiva is lucky to have several very generous donors,2,2,1
+MFI,S,4B,3T,MFI.jpg,"Kiva works with Micro Finance Institutions all over the world, who find and vet borrowers.",2,1,2
+NerdFighters,S,1NL,2T,Nerdfighters.png,"NerdFighters is a popular website with great content, they have also been championing kiva for some time",2,2,1
+Ops,S,3T,$2 ,Ops.jpg,"It turns out that websites need to be hosted on computers, and when servers need wrangling non can do it better than our ops team",1,2,1
+Portfolio Risk,S,Cancel one problem card,$2 ,portfolioRisk.jpg,"With so many loans going to borrowers delbritly selected for need, managing risk through diversification is a must",1,1,3
+The Board,S,Look at the next 5 cards in any deck,3B,theBoard.jpg,"Kiva's board is constantly pushing to keep the orginzation looking ahead, and focused on what matters most",3,1,1
+Interns Program,S,2T,$1 ,,The interns at kiva are some of the brightest folks to be found anywhere,0,3,2
+Kiva Fellows Program,S,2L,$1 ,,"Kiva fellows are brave and intreped volenters who spend months visiting borrowers, ensuring that lenders money is reaching the people who it's supposed to",0,2,3
+kiva social chair,S,2T,$1 ,socialChair.jpg,"When the work day is done, and it's time to kick back with a beer, this gentleman will make sure you know where it's happening",2,0,3
+Donut Empire,S,1L,1T,,"The dark side of snack time, expanding waist lines along with with it's delicious dominance",1,3,1
+Mega Lender,S,1NL,2B,,"Lenders loan some of what they have, It turns out some lenders have a LOT",1,2,2
+Gobie ,S,3T,2T,gobie.jpg,The Kiva office wouldn't be the same without this chearfull dog stealing our socks,2,2,0
+Open House,S,$3 ,2T,,The Kiva open house is a chance for donors to see what things are like inside the kiva offices,1,1,2
+Otis,S,3T,2T,otis.jpg,"The alpha dog of the kiva office, Otis keeps all the other puppies in line",2,1,1
+Site Redesign,S,2L,4T,,,1,3,1
+Opperating Costs,X,,$4 ,,,1,2,0
+Lease Payment,X,,$4 ,,,1,1,1
+Payroll,X,,$4 ,,,1,1,1
 Hyperinflation,X,Remove one borrower from the game,2T,,,1,1,1
-Bad Press,X,4T,,,,1,1,1
-Ressession,X,No New Lenders may be played this turn,,,,1,1,1
-Unessisary Meeting,X,Discard your hand,,,,0,1,2
-Horrible Luck,X,4T,,,,0,2,1
-Sudden Need,X,add 7 borrowers to the borrower pool,,,,0,1,2
-Utter Chaos,X,3T,,,,2,0,1
-Stress,X,4T,,,,1,0,2
-Retirement,X,Place one Permanent Asset into your discard pile,,,,2,0,1
-War,X,Remove two borrower tokens from the game,,,,2,1,0
-Opperating Costs,X,$4 ,,,,1,2,0
-"""No Payment"" movement",X,4T,,,,1,2,0
-Lease Payment,X,$4 ,,,,1,1,1
-Intern Graduation,X,"Each player must discard a ""favor"" card if possible",,,,1,1,1
-Aggressive Recruiter,X,Place one Permanent Asset into your discard pile,,,,1,1,1
-Miscommunication,X,3T,,,,1,1,1
-Website Outage,X,No more than three lenders may be active at the end of the turn,,,,1,1,1
-Day Long Meeting,X,Each player must discard two cards from their deck,,,,1,1,1
-Flue Season,X,Tap all of each players Permanent Asset cards,,,,1,1,1
-Complexity,X,4T,,,,1,1,1
-Payroll,X,$4 ,,,,1,1,1
-Apathey,X,Remove one inactive lender token from the game,,,,1,1,1
-MFI Colapse,X,4T,,,,1,1,1
-Software Bugs,X,5T,,,,1,1,1
-
-Borrower,C,,,,,,,
-Borrower,C,,,,,,,
-Borrower,C,,,,,,,
-Borrower,C,,,,,,,
-Borrower,C
-Borrower,C
-Borrower,C
-Borrower,C
-Borrower,C
-Borrower,C
-Borrower,C
-Lender,C
-Lender,C
-Lender,C
-Lender,C
-Lender,C
-Lender,C
-Lender,C
-Lender,C
-Lender,C
-Lender,C
-Lender,C
-Lives Touched,C
+Utter Chaos,X,,3T,,,2,0,1
+Miscommunication,X,,3T,,,1,1,1
+Bad Press,X,,4T,,,1,1,1
+Horrible Luck,X,,4T,,,0,2,1
+Stress,X,,4T,,,1,0,2
+"""No Payment"" movement",X,,4T,,,1,2,0
+Complexity,X,,4T,,,1,1,1
+MFI Colapse,X,,4T,,,1,1,1
+Software Bugs,X,,5T,,,1,1,1
+Ressession,X,No New Lenders may be played this turn, ,,,1,1,1
+Unessisary Meeting,X,Discard your hand, ,,,0,1,2
+Sudden Need,X,add 7 borrowers to the borrower pool, ,,,0,1,2
+Retirement,X,Place one Permanent Asset into your discard pile, ,,,2,0,1
+War,X,Remove two borrower tokens from the game, ,,,2,1,0
+Intern Graduation,X,"Each player must discard a ""favor"" card if possible", ,,,1,1,1
+Aggressive Recruiter,X,Place one Permanent Asset into your discard pile, ,,,1,1,1
+Website Outage,X,No more than three lenders may be active at the end of the turn, ,,,1,1,1
+Day Long Meeting,X,Each player must discard two cards from their deck, ,,,1,1,1
+Flue Season,X,Tap all of each players Permanent Asset cards, ,,,1,1,1
+Apathey,X,Remove one inactive lender token from the game, ,,,1,1,1
+,,,,,,1,3,1

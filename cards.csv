@@ -22,7 +22,7 @@ Lender,C,,,,,,,
 Lender,C,,,,,,,
 Lender,C,,,,,,,
 Lives Touched,C,,,,,,,
-Bill Clinton,I,1NL,1T,billClinto.jpg,"Bill is fond of mentioning Kiva in many of his speaches, frequently sending a swarm of new lenders to the site.",2,0,2
+Bill Clinton,I,1NL,1T,billClinton.jpeg,"Bill is fond of mentioning Kiva in many of his speaches, frequently sending a swarm of new lenders to the site.",2,0,2
 Kareyoke,I,3T,$1 ,keryoke.jpg,"There is a strong office tradition of kareyoke at kiva, often centered around the San Francisco staple ""the mint""",3,0,2
 Kiva Birthday,I,4L,3T,kivaBirthday.png,,3,2,0
 Kiva Retreat,I,Immediately buy 3 idea cards for free,4T,kivaRetreat.jpg,,0,2,3
@@ -30,14 +30,14 @@ Trampoline Dodgeball,I,3T,$2 ,trampolineDodgeball.jpg,"the ""Rino Ninjas"" are o
 Innovation Itteration,I,"Immediately buy, and play one idea card for free",$5 ,innovationItteration.png,"Periodically kiva gives its engeneers two weeks to work on whatever they feel needs doing in the company, often with amazing results.",3,1,1
 Social Performance,I,"Gain one ""life touched"" point",$6 ,,"this department is devoted to discovering where loans will have the most impact, leadint to our ""social performance badges""",2,1,1
 Free Advertizing,I,2NL,1T,,"One nice thing about trying to help others, is often others try to help you!",2,2,0
-Kiva Love,I,Untap any card,1T,,,2,3,0
+Kiva Love,I,Untap any card,1T,kivaLove.png,,2,3,0
 Matt,I,4T,2B,matt.jpg,"Founder and C.E.O. Matt keeps a philosphical outlook, and stears kiva carefuly",2,0,3
 Permal,I,$4 ,2B,premal.jpg,"Kiva's president, premal is a motivated and talented leader. He has also been known to do ""the worm"" at parties",2,2,1
-Kiva Lender Parties,I,3L,2T,,,0,3,2
-Positive Press,I,2NL,2T,,"Kiva often appears in stories about people helping people, or microfinance, and is generally held up as an ideal.",1,1,2
+
+
 Rappelling off the roof,I,Cancel one problem card,2T,,"When facing a locked office door with no key in sight, kiva's rock-climbing employees were ready at a moments notice.",1,2,1
-Mustaches for children,I,3L,3T,,"Each year, kiva employees forgo their razors for a month, to participate in the ""mustaches for children"" fundraiser, helping to buy much needed school supplies",1,2,2
-Oprah,I,5NL,5T,,"Kiva's single largest event was it's appearance on the Oprah show, causing sudden and unpressidented growth",2,1,2
+Mustaches for kids,I,3L,3T,mustachesForKids.png,"Each year, kiva employees forgo their razors for a month, to participate in the ""mustaches for children"" fundraiser, helping to buy much needed school supplies",1,2,2
+Oprah,I,5NL,5T,oprah.jpeg,"Kiva's single largest event was it's appearance on the Oprah show, causing sudden and unpressidented growth",2,1,2
 Africa & middle east portfolio,P,1B,$6 ,africaAndTheMiddleEast.jpg,,0,2,2
 Team Athiests,P,2L,8T,atheists.jpg,"The largest, and most active lending team on kiva, team athiasts can usually be found at the top of the lending team charts",1,1,3
 Team Christians,P,1L,6T,christians.jpg,"The strongest contender for most active lending team, the Christian lending team is often neck and neck with the athiest team",1,3,1
@@ -49,7 +49,7 @@ Kiva Zip,P,1L,$6 ,kivaZip.png,"zip.kiva.org is kiva's latest exparament, allowin
 Latin America Portfolio,P,1B,$4 ,latinAmerica.jpg,,1,2,2
 Team Milepoint,P,1L,6T,milepoint.jpg,These saveey lenders have found a way to convert kiva lending into airline miles. In the process they have managed to be come the third most active lending team,3,1,1
 North America Portfolio,P,1B,$4 ,northAmerica.jpg,,2,1,2
-PA2,P,1T,$4 ,PA2.png,"Kiva interacts with hundreds of MFIs through a custom built website, maintianed by the tireless engeneers of PA2",2,2,1
+Partner Tech,P,1T,$4 ,PA2.png,"Kiva interacts with hundreds of MFIs through a custom built website, maintianed by the tireless engeneers of PA2",2,2,1
 Reminder Email,P,2L,7T,reminderEmail.png,The great thing about kiva is that you get your money back to loan again!,1,1,2
 Rocket Monkey,P,$1 ,$4 ,rocketMonkey.jpg,"This engenering team builds the website that lenders use, the public face of the kiva operation.",1,2,1
 Unit Tests,P,Cancel one problem card,8T,unitTests.png,"The cornerstone of modern software development, unit testing catches bugs before they happen.",0,2,2
@@ -76,36 +76,36 @@ Ops,S,3T,$2 ,Ops.jpg,"It turns out that websites need to be hosted on computers,
 Portfolio Risk,S,Cancel one problem card,$2 ,portfolioRisk.jpg,"With so many loans going to borrowers delbritly selected for need, managing risk through diversification is a must",1,1,3
 The Board,S,Look at the next 5 cards in any deck,3B,theBoard.jpg,"Kiva's board is constantly pushing to keep the orginzation looking ahead, and focused on what matters most",3,1,1
 Interns Program,S,2T,$1 ,,The interns at kiva are some of the brightest folks to be found anywhere,0,3,2
-Kiva Fellows Program,S,2L,$1 ,,"Kiva fellows are brave and intreped volenters who spend months visiting borrowers, ensuring that lenders money is reaching the people who it's supposed to",0,2,3
+Kiva Fellows Program,S,2L,$1 ,kivaFellows.png,"Kiva fellows are brave and intreped volenters who spend months visiting borrowers, ensuring that lenders money is reaching the people who it's supposed to",0,2,3
 kiva social chair,S,2T,$1 ,socialChair.jpg,"When the work day is done, and it's time to kick back with a beer, this gentleman will make sure you know where it's happening",2,0,3
 Donut Empire,S,1L,1T,,"The dark side of snack time, expanding waist lines along with with it's delicious dominance",1,3,1
 Mega Lender,S,1NL,2B,,"Lenders loan some of what they have, It turns out some lenders have a LOT",1,2,2
 Gobie ,S,3T,2T,gobie.jpg,The Kiva office wouldn't be the same without this chearfull dog stealing our socks,2,2,0
 Open House,S,$3 ,2T,,The Kiva open house is a chance for donors to see what things are like inside the kiva offices,1,1,2
 Otis,S,3T,2T,otis.jpg,"The alpha dog of the kiva office, Otis keeps all the other puppies in line",2,1,1
-Site Redesign,S,2L,4T,,,1,3,1
-Opperating Costs,X,,$4 ,,,1,2,0
-Lease Payment,X,,$4 ,,,1,1,1
-Payroll,X,,$4 ,,,1,1,1
-Hyperinflation,X,Remove one borrower from the game,2T,,,1,1,1
-Utter Chaos,X,,3T,,,2,0,1
-Miscommunication,X,,3T,,,1,1,1
-Bad Press,X,,4T,,,1,1,1
-Horrible Luck,X,,4T,,,0,2,1
-Stress,X,,4T,,,1,0,2
-"""No Payment"" movement",X,,4T,,,1,2,0
-Complexity,X,,4T,,,1,1,1
-MFI Colapse,X,,4T,,,1,1,1
-Software Bugs,X,,5T,,,1,1,1
-Ressession,X,No New Lenders may be played this turn, ,,,1,1,1
-Unessisary Meeting,X,Discard your hand, ,,,0,1,2
-Sudden Need,X,add 7 borrowers to the borrower pool, ,,,0,1,2
+
+Opperating Costs,X,No Effect,$4 ,cost.jpeg,,1,2,0
+Lease Payment,X,No Effect,$4 ,cost.jpeg,,1,1,1
+Payroll,X,No Effect,$4 ,cost.jpeg,,1,1,1
+Hyperinflation,X,Remove one borrower from the game,2T,cost.jpeg,,1,1,1
+Utter Chaos,X,No Effect,3T,utterChaos.jpeg,,2,0,1
+Miscommunication,X,No Effect,3T,stress.jpeg,,1,1,1
+Bad Press,X,No Effect,4T,badPress.jpeg,,1,1,1
+Horrible Luck,X,No Effect,4T,utterChaos.jpeg,,0,2,1
+Stress,X,No Effect,4T,stress.jpeg,,1,0,2
+"""No Payment"" movement",X,No Effect,4T,badPress.jpeg,,1,2,0
+Complexity,X,No Effect,4T,complexity.jpeg,,1,1,1
+MFI Colapse,X,No Effect,4T,utterChaos.jpeg,,1,1,1
+Software Bugs,X,No Effect,5T,complexity.jpeg,,1,1,1
+Ressession,X,No New Lenders may be played this turn, ,badPress.jpeg,,1,1,1
+Unessisary Meeting,X,Discard your hand, ,thunderdome.jpg,,0,1,2
+Sudden Need,X,add 7 borrowers to the borrower pool, ,utterChaos.jpeg,,0,1,2
 Retirement,X,Place one Permanent Asset into your discard pile, ,,,2,0,1
-War,X,Remove two borrower tokens from the game, ,,,2,1,0
+War,X,Remove two borrower tokens from the game, ,war.jpeg,,2,1,0
 Intern Graduation,X,"Each player must discard a ""favor"" card if possible", ,,,1,1,1
 Aggressive Recruiter,X,Place one Permanent Asset into your discard pile, ,,,1,1,1
 Website Outage,X,No more than three lenders may be active at the end of the turn, ,,,1,1,1
-Day Long Meeting,X,Each player must discard two cards from their deck, ,,,1,1,1
+Day Long Meeting,X,Each player must discard two cards from their deck, ,thunderdome.jpg,,1,1,1
 Flue Season,X,Tap all of each players Permanent Asset cards, ,,,1,1,1
-Apathey,X,Remove one inactive lender token from the game, ,,,1,1,1
+Apathey,X,Remove one inactive lender token from the game, ,stress.jpeg,,1,1,1
 ,,,,,,1,3,1

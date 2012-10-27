@@ -1,10 +1,13 @@
 <div class="<?echo $type . '_card'?> global">
-     <div class="card_name <?php echo "$card_name_size $type"?>"><? echo $name ?></div>
+     <div class="card_name <?php echo "$card_name_size $type"?>">
+       <div class="hint"><?echo typer($type) ?></div>
+       <? echo $name ?>
+     </div>
      <div class="cost">
        <div class="big_icon <?echo $cost ?>"><? echo iconify($cost) ?></div>
      </div>
 
-     <div class="effect  <?echo "$card_rule_size $type"?>">
+     <div class="effect  <?echo "$card_rule_size $type".'_effect'?>">
        <div class="floater"></div>
        <div><? echo iconify($effect) ?></div>
      </div>

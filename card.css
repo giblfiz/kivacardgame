@@ -22,7 +22,7 @@
 
 .I{
    background-color: #fcc;
-   border: 1px #fdd solid;
+   border: 3px #fdd solid;
 }
 
 .I_card {
@@ -39,7 +39,7 @@
 
 .S{
    background-color: #ccf;
-   border: 1px #ddf solid;
+   border: 3px #ddf solid;
 }
 .S_card {
     background-color:#ccc;
@@ -55,7 +55,7 @@
 
 .P{
    background-color: #cfc;
-   border: 1px #dfd solid;
+   border: 3px #dfd solid;
 }
 .P_card {
     background-color:#ccc;
@@ -70,6 +70,12 @@
 }
 
 
+.hint{
+    font-size:20px;
+    padding:0px;
+    margin:0px;
+    margin-top:-15px;
+}
 
 .card_name_long{
     font-size: 50px;
@@ -106,6 +112,7 @@
     left:20px;
     height:200px;
     width:710px;
+    background-color:#FFF
 }
 
 .floater{

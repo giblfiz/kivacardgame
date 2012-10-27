@@ -66,6 +66,13 @@ function iconify($string){
     $ls = '<img src="/kivacardgame/icons/Lender.png" class="singleIcon">';
     $nls = '<img src="/kivacardgame/icons/NewLender.png" class="singleIcon">';
 	 switch(trim($string)){
+
+	 case "0L":
+	 case "0T":
+	 case "0B":
+	 case "$0":
+	 return(0);
+
 	 case "1T":
 	     return($ts);
 	 case "2T":
@@ -128,4 +135,15 @@ function iconify($string){
 	 }
 
 return($string);
+}
+
+function typer($type){
+$types = array(
+    "S" =>"Favor"
+    ,"X" => "Problem"
+    ,"P" => "Asset"
+    ,"I" => "Event"
+    );
+return($types[$type]);
+
 }
